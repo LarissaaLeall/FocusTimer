@@ -6,7 +6,7 @@ Ao clicar no card ao lado direito, vai mudar de cor e emitir um som diferente, c
 Funcionalidades dos Botões: <br/>
 
 ▶️: aciona o timer <br/>
-⏹️: para o timer e volta aos 25min <br/>
+⏹️: para o timer <br/>
 ➕: aumenta 5 minutos do tempo do timer <br/>
 ➖: diminui 5 minutos do tempo do timer <br/>
 
