@@ -1,9 +1,9 @@
 # Focus Timer
 
-Projeto desenvolvido no Curso Explorer da Rocketseat.
-Ao clicar no card ao lado direito, vai mudar de cor e emitir um som diferente, conforme a imagem.
+Projeto desenvolvido no Curso Explorer da Rocketseat. <br/>
+Ao clicar no card ao lado direito, vai mudar de cor e emitir um som diferente, conforme a imagem. <br/>
 
-Funcionalidades dos Botões:
+Funcionalidades dos Botões: <br/>
 
 ▶️: aciona o timer
 ⏹️: para o timer e volta aos 25min
